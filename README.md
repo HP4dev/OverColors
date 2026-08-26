@@ -43,6 +43,9 @@ A Among Us mod which adds 60+ Colors for Among Us!
 
 * Over 60 Preset Colors!
 * Colorblind Text Support!
+
+<img width="250" height="250" alt="Colorblind Text" src="src/assets/color-name-ingame.png" />
+
   
 
 <img width="700" height="500" alt="Colors In Game 1" src="src/assets/more-colors-1.png" />
@@ -50,10 +53,6 @@ A Among Us mod which adds 60+ Colors for Among Us!
 <img width="700" height="500" alt="Colors In Game 3" src="src/assets/more-colors-3.png" />
 <img width="700" height="500" alt="Colors In Game 4" src="src/assets/more-colors-4.png" />
 
-**the Custom Colors also supports Medbay Scan Abd Colorblind Text Support**
+**the Custom Colors also supports Medbay Scan And Colorblind Text**
 
 <img width="700" height="500" alt="Medbay Scan" src="src/assets/medbay-color-ingame.png" />
-<img width="700" height="500" alt="Colorblind Text" src="src/assets/color-name-ingame.png" />
-
-
-
