@@ -45,7 +45,7 @@ A Among Us mod which adds 60+ Colors for Among Us!
 * Colorblind Text Support!
   
 
-<img width="700" height="500" alt="more-colors-1" src="/assets/more-colors-1.png" />
+<img width="700" height="500" alt="Colors In Game 1" src="/assets/more-colors-1.png" />
 <img width="700" height="500" alt="Colors In Game 2" src="/assets/more-colors-2.png" />
 <img width="700" height="500" alt="Colors In Game 3" src="/assets/more-colors-3.png" />
 <img width="700" height="500" alt="Colors In Game 4" src="/assets/more-colors-4.png" />
