@@ -2,7 +2,7 @@
 A Among Us mod which adds 60+ Colors for Among Us!
 > This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
-<img width="700" height="500" alt="OverColors-Logo" src="/assets/OverColors-Logo.png" />
+<img width="700" height="500" alt="OverColors-Logo" src="src/assets/OverColors-Logo.png" />
 
 </p>
 <p align="center">
